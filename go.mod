@@ -1,3 +1,3 @@
-module github.com/YouEclipse/wakatime-go
+module github.com/zcxb/wakatime-go
 
 go 1.14
